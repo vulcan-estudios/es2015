@@ -4,6 +4,24 @@
 
 JavaScript ES2015 playground.
 
+## Install
+
+```sh
+$ npm install
+```
+
+## Build
+
+```sh
+$ npm run build
+```
+
+## Run
+
+```sh
+$ npm run start
+```
+
 ## License
 
 [MIT](./LICENSE)
